@@ -4,7 +4,7 @@
 
 We’re gonna build cross-platform application with `React Native`. 
 Please make sure you’ve checked out 
-[getting started](https://facebook.github.io/react-native/docs/getting-started.html#content) guide 
+[getting started](https://facebook.github.io/react-native/docs/getting-started.html#content) guide and create a Github account if you don't have one already.
 
 ###Required software
 
@@ -23,7 +23,6 @@ Please make sure you’ve checked out
 - `Android SDK v. 23`
 - Android device emulator (built in `Android Studio` or `Genymotion`)
 - `Node.js` *version 6 or above* with `npm`
-- exponent XDE *(optional)*
 
 
 ###Good to know libraries
